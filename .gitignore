@@ -3,5 +3,21 @@
 env/
 venv/
 
-# Environment variables
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data & artifacts (not tracked)
+data/
+artifacts/
+
+# Secrets
 .env
