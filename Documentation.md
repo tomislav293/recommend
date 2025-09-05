@@ -1,4 +1,4 @@
-# 1. Data Preparation & Exploration
+# Data Preparation & Exploration
 
 In the first step, the dataset was loaded into a Pandas DataFrame. The dataset contained 50 articles with fields such as id, date, title, summary, category, and url.
 
@@ -17,7 +17,7 @@ Exploratory statistics showed that the dataset contains 50 articles across three
 
 Word count analysis revealed that titles are short and concise (average 3–4 words), while summaries are richer in content (average 5–6 words, with a maximum of 8). This indicates that summaries carry more descriptive information and will likely be more important for embedding and clustering.
 
-# 2. Text preprocesing
+# Text preprocesing
 
 ## Cleaning and Normalization
 To prepare the dataset for clustering, several text preprocessing steps were applied. First, a custom cleaning function was implemented. This function lowercased the text, removed URLs and punctuation, tokenized words using a regex pattern, removed English stopwords, and applied lemmatization. These steps ensure that texts are standardized and reduced to their semantic core, which improves the quality of embeddings by minimizing noise.
@@ -37,7 +37,7 @@ Finally, we converted the cleaned text into dense vector embeddings using Senten
 
 
 
-# 3. Clustering & Ranking
+# Clustering & Ranking
 To determine the number of clusters (k) for KMeans, we used two standard methods:
 ## Determine number of clusters 
 ### Elbow Method
