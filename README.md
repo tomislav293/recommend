@@ -40,6 +40,10 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
+### Install SpaCy model
+```bash
+python -m spacy download en_core_web_md
+```
 
 ### Environment variables
 Create a .env file in the project root with your OpenAI API key:
