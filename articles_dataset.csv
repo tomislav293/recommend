@@ -1,0 +1,51 @@
+id,date,url,title,summary,category
+1,2024-06-01,https://technews.com/android1,Android Phones with 120Hz Displays,New Android models feature smoother 120Hz refresh rates,Technology
+2,2024-06-02,https://technews.com/android2,Android Battery Life Improvements,Manufacturers focus on longer-lasting batteries,Technology
+3,2024-06-03,https://technews.com/android3,Affordable Android Flagships,New models aim to balance cost and performance,Technology
+4,2024-06-04,https://technews.com/android4,Camera Innovations in Android,Smartphones introduce advanced AI-driven photography,Technology
+5,2024-06-05,https://technews.com/android5,Foldable Android Phones,Flexible displays gain traction in premium segment,Technology
+6,2024-06-06,https://technews.com/wearables1,Smartwatch Market Growth,Fitness tracking drives smartwatch adoption,Technology
+7,2024-06-07,https://technews.com/wearables2,AR Glasses in Retail,Augmented reality glasses enhance shopping experience,Technology
+8,2024-06-08,https://technews.com/wearables3,Fitness Trackers Popular Among Youth,Young consumers adopt trackers for daily health,Technology
+9,2024-06-09,https://technews.com/wearables4,Smartwatches for Athletes,New models track running and swimming metrics,Technology
+10,2024-06-10,https://technews.com/wearables5,AR Glasses for Education,Classrooms experiment with immersive lessons,Technology
+11,2024-06-11,https://technews.com/cyber1,Data Privacy Concerns Rise,Experts warn about increasing cyber threats,Technology
+12,2024-06-12,https://technews.com/cyber2,Ransomware Attacks Surge,Businesses face growing cybersecurity risks,Technology
+13,2024-06-13,https://technews.com/cyber3,Hybrid Cloud Adoption,Companies move workloads to hybrid cloud systems,Technology
+14,2024-06-14,https://technews.com/cyber4,Green Data Centers,Tech firms invest in renewable-powered infrastructure,Technology
+15,2024-06-15,https://technews.com/cyber5,Zero Trust Security Models,Organizations implement stricter access controls,Technology
+16,2024-06-16,https://healthnews.com/diet1,Low-Carb Diets Remain Popular,Studies show benefits for weight management,Health
+17,2024-06-17,https://healthnews.com/diet2,Protein-Rich Foods for Athletes,Nutritionists recommend high-protein meals,Health
+18,2024-06-18,https://healthnews.com/diet3,Plant-Based Diet Trends,More people adopt vegan and vegetarian diets,Health
+19,2024-06-19,https://healthnews.com/diet4,Sugar Reduction Programs,Governments push initiatives to cut sugar intake,Health
+20,2024-06-20,https://healthnews.com/diet5,Mediterranean Diet Benefits,Diet linked to improved heart health,Health
+21,2024-06-21,https://healthnews.com/fitness1,Fitness Apps for Runners,New apps provide personalized training plans,Health
+22,2024-06-22,https://healthnews.com/fitness2,Yoga Apps Gain Popularity,Digital yoga platforms reach global users,Health
+23,2024-06-23,https://healthnews.com/fitness3,Home Workout Trends,Streaming workouts become common post-pandemic,Health
+24,2024-06-24,https://healthnews.com/fitness4,Sleep Tracking Apps,Users monitor sleep cycles for better health,Health
+25,2024-06-25,https://healthnews.com/fitness5,Cardio Training Benefits,Running and cycling linked to longevity,Health
+26,2024-06-26,https://healthnews.com/med1,Telemedicine Usage Expands,More patients choose online consultations,Health
+27,2024-06-27,https://healthnews.com/med2,New Vaccine Trials,Early results show strong immune responses,Health
+28,2024-06-28,https://healthnews.com/med3,AI in Medical Imaging,Algorithms improve diagnostic accuracy,Health
+29,2024-06-29,https://healthnews.com/med4,Pandemic Preparedness,Governments prepare for future outbreaks,Health
+30,2024-06-30,https://healthnews.com/med5,Genetic Research Breakthrough,Scientists decode rare disease genes,Health
+31,2024-07-01,https://sportsnews.com/tennis1,Wimbledon 2024 Begins,Top tennis stars prepare for London tournament,Sports
+32,2024-07-02,https://sportsnews.com/tennis2,Best Tennis Rackets Reviewed,Experts analyze the latest racket technology,Sports
+33,2024-07-03,https://sportsnews.com/tennis3,Tennis Training for Juniors,Young players train with modern techniques,Sports
+34,2024-07-04,https://sportsnews.com/tennis4,Tennis Shoes Comparison,Brands release lightweight shoes for court play,Sports
+35,2024-07-05,https://sportsnews.com/tennis5,Historic Wimbledon Moments,Fans recall legendary matches and players,Sports
+36,2024-07-06,https://sportsnews.com/run1,Marathon Training Gear,Sportswear companies launch new socks for runners,Sports
+37,2024-07-07,https://sportsnews.com/run2,Running Shoes Technology,Lightweight shoes improve marathon results,Sports
+38,2024-07-08,https://sportsnews.com/run3,Hydration Tips for Runners,Experts share advice on fluid intake,Sports
+39,2024-07-09,https://sportsnews.com/run4,Smartwatches for Runners,Wearables help track pace and endurance,Sports
+40,2024-07-10,https://sportsnews.com/run5,Injury Prevention in Running,Doctors recommend stretching routines,Sports
+41,2024-07-11,https://sportsnews.com/foot1,Football World Cup Qualifiers,Teams battle for spots in next year’s tournament,Sports
+42,2024-07-12,https://sportsnews.com/foot2,Local Football Clubs Rise,Community clubs gain popularity,Sports
+43,2024-07-13,https://sportsnews.com/foot3,Esports Growth,Professional gaming attracts investors,Sports
+44,2024-07-14,https://sportsnews.com/foot4,Cycling Tour Updates,Mountain stages challenge leading riders,Sports
+45,2024-07-15,https://sportsnews.com/foot5,Basketball Playoff Highlights,Exciting games draw record crowds,Sports
+46,2024-07-16,https://sportsnews.com/foot6,Hockey Championship Series,Team secures back-to-back titles,Sports
+47,2024-07-17,https://sportsnews.com/foot7,Golf Major Tournament,Young star secures first major win,Sports
+48,2024-07-18,https://sportsnews.com/foot8,Boxing Title Match,Heavyweight clash ends in knockout,Sports
+49,2024-07-19,https://sportsnews.com/foot9,Olympics Preparation,Host city accelerates stadium construction,Sports
+50,2024-07-20,https://sportsnews.com/foot10,Swimming World Records,Breakthrough performances at global meet,Sports
