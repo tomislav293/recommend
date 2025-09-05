@@ -27,7 +27,7 @@ Recommend/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/recommend.git
+git clone https://github.com/tomislav293/recommend
 cd recommend
 ```
 ### Create a virtual environment
